@@ -1,11 +1,13 @@
-# Production Quality KPI Dashboard
+# Sales Performance Dashboard
 
-Inspired by real-life work at Canada Goose, this project simulates production quality monitoring using Excel and Power BI.
+This project demonstrates data analysis and dashboard creation using Excel, SQL, and Power BI.
 
 ## Tools Used:
-- Excel (Pareto, Root Cause Analysis, Control Charts)
-- Power BI (KPI tracking dashboard)
+- Excel (Data Cleaning)
+- SQL (Sales analysis queries)
+- Power BI (Interactive dashboard)
 
 ## Project Goals:
-- Visualize production errors and key quality metrics.
-- Use analytical tools to support decision-making.
+- Identify top products, sales trends, and regions.
+- Use DAX to build KPIs.
+- Create slicers and visuals for dynamic filtering.
